@@ -60,9 +60,13 @@ const azera = {
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Azerahiko&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a8b2d8&icon_color=a8b2d8&text_color=cdd6f4&cache_seconds=1800)
+[
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azerahiko&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a8b2d8&text_color=cdd6f4)
+![GitHub Streak](https://streak-stats.demolab.com?user=Azerahiko&theme=tokyonight&hide_border=true&background=0d1117&ring=a8b2d8&fire=a8b2d8&currStreakLabel=a8b2d8)
+
+](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azerahiko&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a8b2d8&text_color=cdd6f4&cache_seconds=1800)
 
 </div>
 
