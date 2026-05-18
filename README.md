@@ -66,7 +66,6 @@ const azera = {
 
 ](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azerahiko&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a8b2d8&text_color=cdd6f4&cache_seconds=1800)
 
 </div>
 
