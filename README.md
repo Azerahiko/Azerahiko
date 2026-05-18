@@ -60,12 +60,7 @@ const azera = {
 
 <div align="center">
 
-[
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Azerahiko&theme=tokyonight&hide_border=true&background=0d1117&ring=a8b2d8&fire=a8b2d8&currStreakLabel=a8b2d8)
-
-](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 </div>
 
