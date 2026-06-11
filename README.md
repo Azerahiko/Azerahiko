@@ -23,7 +23,6 @@ const azera = {
   focus:     ["HTML", "CSS", "JS", "PHP", "C++", "GDScript", "Python"],
   engine:    "Godot",
   currently: "building my portfolio from scratch + crafting something worth playing",
-  vibe:      "dark theme or no theme",
   ask_me:    "anything about web dev, android tweaks, or game dev",
 }
 ```
