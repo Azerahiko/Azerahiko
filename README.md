@@ -20,7 +20,7 @@
 ```javascript
 const azera = {
   status:    "still figuring things out",
-  focus:     ["HTML", "CSS", "JS", "PHP", "Laravel"],
+  focus:     ["HTML", "CSS", "JS", "PHP", "CPP", "GD"],
   currently: "building my portfolio from scratch",
   vibe:      "dark theme or no theme",
   ask_me:    "anything about web dev or android tweaks"
