@@ -58,7 +58,7 @@ const azera = {
 | 🎮 | **[Project Name](https://github.com/Azerahiko/project)** | Godot game project — short description here |
 | 🔩 | **[Project Name](https://github.com/Azerahiko/project)** | Something experimental or a side tool |
 
-*Also: getting CSS layout & animations right · exploring Laravel · learning Rust on the side*
+> 🎯 Getting CSS layout & animations right &nbsp;·&nbsp; 🕹️ Sharpening game mechanics in Godot &nbsp;·&nbsp; 🌐 Diving deeper into PHP & backend logic
 
 ---
 
