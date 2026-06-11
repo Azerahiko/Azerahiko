@@ -9,7 +9,6 @@
 ╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝
 ```
 
-**`building stuff on the internet`**
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=A8B2D8&center=true&vCenter=true&width=480&lines=Student+%26+Game+Developer;Web+Dev+in+Progress;Dark+theme+or+no+theme;Always+learning%2C+never+stopping)](https://git.io/typing-svg)
 
